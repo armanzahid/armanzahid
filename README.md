@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @armanzahid
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me armanzahid64@gmail.com
 
 <!---
